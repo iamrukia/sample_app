@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb2e50b3-8197-4e61-bb76-773d195bd6f2" name="Default" comment="" />
+    <list default="true" id="fb2e50b3-8197-4e61-bb76-773d195bd6f2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
     <ignored path="sample_app.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Gemfile" changelist="fb2e50b3-8197-4e61-bb76-773d195bd6f2" time="1363651744521" ignored="false" />
     <file path="/Dummy.txt" changelist="fb2e50b3-8197-4e61-bb76-773d195bd6f2" time="1363652219420" ignored="false" />
+    <file path="/README.md" changelist="fb2e50b3-8197-4e61-bb76-773d195bd6f2" time="1363652559023" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +37,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="48" selection-start="202" selection-end="202" vertical-scroll-proportion="0.07989348">
+            <state line="3" column="1" selection-start="35" selection-end="35" vertical-scroll-proportion="0.059920106">
               <folding />
             </state>
           </provider>
@@ -476,7 +479,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="48" selection-start="202" selection-end="202" vertical-scroll-proportion="0.07989348">
+        <state line="3" column="1" selection-start="35" selection-end="35" vertical-scroll-proportion="0.059920106">
           <folding />
         </state>
       </provider>
