@@ -6,7 +6,7 @@ gem 'rails', '3.2.13.rc2'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 group :development do
   gem 'sqlite3', '1.3.7'
-  gem 'rspec-rails'
+  gem 'rspec-rails', '2.11.0'
 end
 
 group :production do
@@ -14,7 +14,7 @@ group :production do
 end
 
 group :test do
-  gem 'capybara'
+  gem 'capybara', '1.1.2'
 end
 
 # Gems used only for assets and not required
